@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<a target="_blank" href="https://rapidapi.com/api4ai-api4ai-default/api/household-stuff/details"><img src="https://img.shields.io/badge/View%20on%20RapidAPI-gray?logo=octopusdeploy&style=for-the-badge"/></a>
+<a target="_blank" href="https://rapidapi.com/api4ai-api4ai-default/api/furniture-and-household-items/details"><img src="https://img.shields.io/badge/View%20on%20RapidAPI-gray?logo=octopusdeploy&style=for-the-badge"/></a>
 <a target="_blank" href="https://api4.ai/apis/household_stuff?utm_source=household_stuff_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://img.shields.io/badge/api4.ai%20platform-fee33c?style=for-the-badge&logo=icloud&logoColor=black"/></a>
 <a target="_blank" href="https://t.me/a4a_household_stuff_bot"><img src="https://img.shields.io/badge/-Telegram%20demo-ddd?logo=telegram&style=for-the-badge"/></a>
 <br><br>
@@ -55,7 +55,7 @@ This project run to help API users with ready-to-use examples in a set of the mo
 
 * Learn more about API on [api4.ai](https://api4.ai/docs/household_stuff?utm_source=household_stuff_example_repo&utm_medium=readme&utm_campaign=examples)
 * Try API via [🤖 telegram demo bot](https://t.me/a4a_household_stuff_bot)
-* View API on [RapidAPI marketplace](https://rapidapi.com/api4ai-api4ai-default/api/household-stuff/details)
+* View API on [RapidAPI marketplace](https://rapidapi.com/api4ai-api4ai-default/api/furniture-and-household-items/details)
 
 
 ## 📩 Contacts

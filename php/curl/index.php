@@ -9,7 +9,7 @@
 
 // Use 'rapidapi' if you want to try api4ai via RapidAPI marketplace.
 // For more details visit:
-//   https://rapidapi.com/api4ai-api4ai-default/api/household-stuff/details
+//   https://rapidapi.com/api4ai-api4ai-default/api/furniture-and-household-items/details
 $MODE = 'demo';
 
 // Your RapidAPI key. Fill this variable with the proper value if you want
@@ -22,7 +22,7 @@ $OPTIONS = [
         'headers' => ['A4A-CLIENT-APP-ID: sample']
     ],
     'rapidapi' => [
-        'url' => 'https://household-stuff.p.rapidapi.com/v1/results',
+        'url' => 'https://furniture-and-household-items.p.rapidapi.com/v1/results',
         'headers' => ["X-RapidAPI-Key: {$RAPIDAPI_KEY}"]
     ]
 ];

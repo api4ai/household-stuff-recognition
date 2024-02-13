@@ -21,7 +21,7 @@ extension NSMutableData {
 //
 // Use "rapidapi" if you want to try api4ai via RapidAPI marketplace.
 // For more details visit:
-//   https://rapidapi.com/api4ai-api4ai-default/api/household-stuff/details
+//   https://rapidapi.com/api4ai-api4ai-default/api/furniture-and-household-items/details
 let MODE = "demo"
 
 
@@ -38,7 +38,7 @@ let OPTIONS = [
         ] as NSMutableDictionary
     ],
     "rapidapi": [
-        "url": "https://household-stuff.p.rapidapi.com/v1/results",
+        "url": "https://furniture-and-household-items.p.rapidapi.com/v1/results",
         "headers": [
             "X-RapidAPI-Key": RAPIDAPI_KEY
         ] as NSMutableDictionary

@@ -7,7 +7,7 @@
 #
 # Use 'rapidapi' if you want to try api4ai via RapidAPI marketplace.
 # For more details visit:
-#   https://rapidapi.com/api4ai-api4ai-default/api/household-stuff/details
+#   https://rapidapi.com/api4ai-api4ai-default/api/furniture-and-household-items/details
 MODE="demo"
 
 
@@ -22,7 +22,7 @@ if [[ "${MODE}" == "demo" ]]; then
     URL="https://demo.api4ai.cloud/household-stuff/v1/results"
     HEADERS="A4A-CLIENT-APP-ID: sample"  # optional header
 elif [[ "${MODE}" == "rapidapi" ]]; then
-    URL="https://household-stuff.p.rapidapi.com/v1/results"
+    URL="https://furniture-and-household-items.p.rapidapi.com/v1/results"
     HEADERS="X-RapidAPI-Key: ${RAPIDAPI_KEY}"
 else
     echo "Unsupported sample mode"

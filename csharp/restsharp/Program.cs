@@ -13,7 +13,7 @@ using RestSharp;
  *
  * Use 'rapidapi' if you want to try api4ai via RapidAPI marketplace.
  * For more details visit:
- *   https://rapidapi.com/api4ai-api4ai-default/api/household-stuff/details
+ *   https://rapidapi.com/api4ai-api4ai-default/api/furniture-and-household-items/details
  */
 
 const String MODE = "demo";
@@ -34,7 +34,7 @@ switch (MODE) {
         headers.Add("A4A-CLIENT-APP-ID", "sample");
         break;
     case "rapidapi":
-        url = "https://household-stuff.p.rapidapi.com/v1/results";
+        url = "https://furniture-and-household-items.p.rapidapi.com/v1/results";
         headers.Add("X-RapidAPI-Key", RAPIDAPI_KEY);
         break;
     default:
